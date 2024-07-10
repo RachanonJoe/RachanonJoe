@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">A passionate Data Scientist from Thailand</h3>
 
-- 🔭 I’m currently working on **study more concept about Machine Learning, also delve deep into Deep Learning**
-
-- 🌱 I’m currently learning **SVM and CNN**
+- 🔭 I’m currently **learning more concept about Machine Learning, and Deep Learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RachanonJoe](https://github.com/RachanonJoe)
 
